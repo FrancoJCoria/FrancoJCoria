@@ -15,7 +15,7 @@
 
 <br><br>
 
-- :school: I am a `Student` at [Universidad de La Punta]
+- :school: I am a `Student` at `Universidad de La Punta`
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Software Development` 
 - :nerd_face: Always `learning new things`.
