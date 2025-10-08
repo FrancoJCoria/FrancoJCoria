@@ -23,7 +23,7 @@
 
 
 
-#### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Conecta conmigo eso quiero utilizar con un link a
+#### <picture> <a href="https://www.linkedin.com/in/francojcoria/"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Conecta conmigo </a>
 
 <p align="center">
 	<a href="mailto:francojaviercoria2@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
